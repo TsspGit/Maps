@@ -11,7 +11,7 @@ $ git clone git@github.com:TsspGit/Maps.git
 ```   
 Remember that you need to have a github account, have created an ssh key and, of course, Git on your computer.
 
-### How to use
+# 2. How to use
 See the example IslandMap.ipynb. The only requirment is to import the Map class from pyMap.py and obtain the epsg code.
 
 Enjoy it! :)
