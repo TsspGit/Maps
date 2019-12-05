@@ -1,8 +1,8 @@
-# pyMAps
+# pyMaps
 
 ### Contents
 * [Download](#1-download)
-* [Merging example](#2-how-to-use)
+* [How to use](#2-how-to-use)
 
 ## 1. Download
 Execute the next line on your terminal:
